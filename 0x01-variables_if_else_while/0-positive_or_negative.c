@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- * this is just a comment
- * am working on this project
-*/
+ * main -entry point function checks forpolarity 
+ *
+ * Return: Always 0
+ */
 int main(void)
 {
 	int n;
