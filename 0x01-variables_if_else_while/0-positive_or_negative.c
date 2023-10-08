@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -entry point function checks forpolarity 
+ * main -entry point function checks forpolarity
  *
  * Return: Always 0
  */
