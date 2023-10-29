@@ -3,8 +3,6 @@
 /**
 * print_alphabet - function to print
 *
-* @n: functio parameter
-*
 * Return: always return 0 on sucesses
 */
 
